@@ -6,7 +6,8 @@
      
 </template>
 
- <script lang="ts">
+ 
+<script lang="ts">
 import { defineComponent } from 'vue';
 import { useMouse } from '@vueuse/core';
 export default defineComponent({
